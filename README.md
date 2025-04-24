@@ -183,7 +183,8 @@ python sarcasm_gui.py
 ## Полезные Ссылки
 
 *   **Navec Embeddings:** [Natasha Project](https://github.com/natasha/navec) (Файл: [navec_hudlit_v1_12B_500K_300d_100q.tar](https://storage.yandexcloud.net/natasha-navec/packs/navec_hudlit_v1_12B_500K_300d_100q.tar))
-*   **Пример датасета сарказма:** [Kaggle - News Headlines Dataset for Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+*   **Датасет сарказма:** [Kaggle - Sarcasm on Reddit](https://www.kaggle.com/datasets/danofer/sarcasm)
+*   **Датасет русских шуток:** [Kaggle - Russian Jokes](https://www.kaggle.com/datasets/konstantinalbul/russian-jokes)
 *   **Hugging Face Transformers:** [Библиотека Transformers](https://huggingface.co/docs/transformers/index)
 *   **Razdel (сегментация):** [Библиотека Razdel](https://github.com/natasha/razdel)
 *   **PyTorch:** [Официальный сайт PyTorch](https://pytorch.org/)
